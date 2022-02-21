@@ -8,4 +8,4 @@ A simple Minecraft game made with Python (Ursina Engine)
 4. Run this file and enjoy! Also, Alt+f4 to exit the game
 
 # About
-I follow a small tutorial and added my small touches at the end https://www.youtube.com/watch?v=DHSRaVeQxIk
+I followed a small tutorial and added my small touches at the end https://www.youtube.com/watch?v=DHSRaVeQxIk
