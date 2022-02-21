@@ -8,7 +8,7 @@ A simple Minecraft game made with Python (Ursina Engine)
 4. Run this file and enjoy! Also, Alt+f4 to exit the game
 
 # Controls
-WASD - Move
+WASD - Move\n
 Mouse - Camera Rotation
 Left Click - Place Block
 Right Click - Remove Block
