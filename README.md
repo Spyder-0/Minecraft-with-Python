@@ -18,4 +18,5 @@ A simple Minecraft game made with Python (Ursina Engine) following a tutorial by
 **1, 2, 3, 4** - Switch Blocks <br />
 
 # About
-I followed a small tutorial and added my small touches at the end https://www.youtube.com/watch?v=DHSRaVeQxIk
+I followed a small tutorial and added my small touches at the end https://www.youtube.com/watch?v=DHSRaVeQxIk <br />
+You can also modify the project and add whatever you want to it!
