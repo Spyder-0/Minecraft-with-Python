@@ -7,7 +7,7 @@ A simple Minecraft game made with Python (Ursina Engine) following a tutorial by
 1. Make sure you have Python installed and Ursina too. If you have Python, go to the Command Line and type `pip install ursina`.
 2. Download this Repository (Clone it or download it as a ZIP file).
 3. Extract the ZIP file and find the `Minecraft Python (Ursina Engine).py` file.
-4. Run this file and enjoy! Also, Alt+f4 to exit the game :)
+4. Run this file and enjoy! Also, **Alt+F4** to exit the game :)
 
 # Controls ⌨
 **WASD** - Move <br />
