@@ -10,11 +10,13 @@ A simple Minecraft game made with Python (Ursina Engine) following a tutorial by
 4. Run this file and enjoy! Also, **Alt+F4** to exit the game :)
 
 # Controls ⌨
-**WASD** - Move <br />
-**Mouse** - Camera Rotation <br />
-**Left Click** - Place Block <br />
-**Right Click** - Remove Block <br />
-**1, 2, 3, 4** - Switch Blocks <br />
+| Key | Description |
+| :---: | :---: |
+| `WASD` | Move |
+| `Mouse` | Camera Rotation |
+| `Left Click` | Place Block |
+| `Right Click` | Remove Block |
+| `1, 2, 3, 4` | Switch Blocks |
 
 # About ℹ
 I followed a small tutorial and added my small touches at the end https://www.youtube.com/watch?v=DHSRaVeQxIk <br />
