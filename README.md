@@ -13,5 +13,5 @@ A simple Minecraft game made with Python (Ursina Engine).
 | `1 - 4` | Switch Blocks |
 
 # About
-- This was made using ClearCode's ![tutorial](https://www.youtube.com/watch?v=DHSRaVeQxIk) with some more modifications. <br />
+- This was made using ClearCode's [tutorial](https://www.youtube.com/watch?v=DHSRaVeQxIk) with some more modifications. <br />
 - Ensure you have the Ursina library installed: `pip install ursina`.
