@@ -1,4 +1,3 @@
-# Install Ursina before using this "pip install ursina"
 # Tutorial https://www.youtube.com/watch?v=DHSRaVeQxIk
 
 from turtle import position, pu
